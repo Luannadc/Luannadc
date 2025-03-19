@@ -1,5 +1,5 @@
 ## Welcome to my GitHub 💮
-### I´m Luanna
+### I´m Luanna ♡ 
 Computer Science student<br>
 Just a girl who loves to learn ✭ <br>
 📍Brazil
