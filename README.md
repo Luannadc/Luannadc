@@ -1,5 +1,5 @@
 ## Welcome to my GitHub
-Just a girl who loves to learn (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+Just a girl who loves to learn (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
 📍Brazil
 
 **Languages**
@@ -8,4 +8,4 @@ Just a girl who loves to learn (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 &nbsp;
 <img src="https://i.imgur.com/saBa4s8.png" width="30">
 &nbsp;
-<img src=">
+<img src="https://i.imgur.com/pZ9DyBH.jpeg" width="32">
