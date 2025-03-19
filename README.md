@@ -1,7 +1,7 @@
 ## Welcome to my GitHub 💮
-### Luanna
-Computer Scient
-Just a girl who loves to learn new technologies ✭ <br>
+### I´m Luanna
+Computer Science student<br>
+Just a girl who loves to learn ✭ <br>
 📍Brazil
 <br>**Languages**<br>
 <img src="https://i.imgur.com/R8p2ePA.png" width="30">
@@ -10,5 +10,5 @@ Just a girl who loves to learn new technologies ✭ <br>
 &nbsp;
 <img src="https://i.imgur.com/pZ9DyBH.jpeg" width="32">
 <br>
-
+I´m very passionate about l
 
