@@ -1,4 +1,6 @@
 ## Welcome to my GitHub 💮
+### Luanna
+Computer Scient
 Just a girl who loves to learn new technologies ✭ <br>
 📍Brazil
 <br>**Languages**<br>
