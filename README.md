@@ -1,5 +1,4 @@
 ## Welcome to my GitHub 💮
-
 Just a girl who loves to learn new technologies ✭ <br>
 📍Brazil
 <br>**Languages**<br>
