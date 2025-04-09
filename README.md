@@ -16,6 +16,6 @@ Just a girl who loves to learn ✭ <br>
 ![Profile Views](https://profile-counter.glitch.me/luannadc/count.svg)<br>
 profile counter<br>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luannadc&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luannadc&layout=compact&theme=tokyonight)
 
 
