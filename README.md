@@ -13,8 +13,9 @@ Just a girl who loves to learn ✭ <br>
 
  I'm a technology student passionate about the gift of learning something new every day. My interests are diverse, ranging from Artificial Intelligence, fashion, and technology to economics and traveling to explore new cultures. I'm always excited to expand my knowledge and embrace new challenges!<br>
  <br>
- ![Profile Views](https://profile-counter.glitch.me/luannadc/count.svg)<br>
- profile counter<br>
+![Profile Views](https://profile-counter.glitch.me/luannadc/count.svg)<br>
+profile counter<br>
 
- ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luannadc&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luannadc&layout=compact&theme=tokyonight)
+
 
