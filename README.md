@@ -10,7 +10,7 @@ Computer Science student 🖥️<br>
 <img src="https://i.imgur.com/pZ9DyBH.jpeg" width="32">
 <br>
 
- I'm a technology student passionate about the gift of learning something new every day. My interests are diverse, ranging from Artificial Intelligence, fashion, and technology to economics and traveling to explore new cultures. I'm always excited to expand my knowledge and embrace new challenges!<br>
+ I'm a technology student passionate about the gift of learning something new every day. My interests are diverse, ranging from artificial intelligence, fashion, and technology to economics and traveling to explore new cultures. I'm always excited to expand my knowledge and embrace new challenges!<br>
  <br>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luannadc&layout=compact&theme=tokyonight)
